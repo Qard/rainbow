@@ -1,0 +1,16 @@
+{
+  "name": "rainbow",
+  "version": "0.0.0",
+  "description": "Rainbow is a little helper to generate color ranges",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r should -G -R spec"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
