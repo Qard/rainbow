@@ -1,4 +1,6 @@
 # Parg
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/rainbow.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/Qard/rainbow.png)](https://travis-ci.org/Qard/rainbow)
 
 Rainbow is a little helper to generate color ranges
